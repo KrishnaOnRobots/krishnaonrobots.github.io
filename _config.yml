@@ -85,8 +85,8 @@ author:
   bio              : "MS Robotics in Electrical and Computer Engineering"
   location         : "Boston, Massachusetts"
   employer         : "Northeastern University"
-  pubmed           : 
-  googlescholar    : 
+  # pubmed           : 
+  # googlescholar    : 
   email            : "krishnaprasathsenthilkumaran@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "www.linkedin.com/in/krishna-prasath-s"
-  orcid            : 
+  # orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
